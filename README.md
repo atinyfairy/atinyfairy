@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @atinyfairy
-- 👀 I’m interested in Java&Golang
-- 🌱 I’m currently learning things that can help me get a high salary job
-- 💞️ I’m looking to collaborate on (I don't kown yet
-- 📫 How to reach me 1849244423@qq.com
+nothing but a dead body
 
 <!---
 atinyfairy/atinyfairy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
